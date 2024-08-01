@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 🤝 I’m looking for help with **Data Science, Data Visualization, Quantum Computing, Game Dev, e.t.c.**
+- 🤝 I’m looking for help with **Data Science, Data Visualization, Quantum Computing, Game Dev, and new stuff to learn**
 
 - 💬 Ask me about **Anything**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/syed muhammad fardeen raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syed muhammad fardeen raza" height="30" width="40" /></a>
+<a href="https://kaggle.com/fardeenraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syed muhammad fardeen raza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
